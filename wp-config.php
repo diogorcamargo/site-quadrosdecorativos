@@ -83,7 +83,7 @@ define('WP_DEBUG', false);
 define( 'DBI_AWS_ACCESS_KEY_ID', $_SERVER['AWS_ACCESS_KEY_ID'] );
 define( 'DBI_AWS_SECRET_ACCESS_KEY', $_SERVER['AWS_SECRET_ACCESS_KEY'] );
 
-define('DISALLOW_FILE_MODS',true);
+/*define('DISALLOW_FILE_MODS',true);*/
 
 /* That's all, stop editing! Happy blogging. */
 
